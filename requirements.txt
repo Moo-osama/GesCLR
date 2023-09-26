@@ -1,0 +1,8 @@
+tensorboardX
+tqdm
+easydict
+prettytable
+chumpy
+pytorch-metric-learning                         # For one-hot action recognition
+smplx[all]
+                                      # For mesh recovery
